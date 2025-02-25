@@ -205,7 +205,6 @@ const AgeGroupBreakdown: React.FC = () => {
   // Chart colors
   const genderColors = ['#ff6384', '#36a2eb', '#ffce56'];
   const lineTypeColors = ['#4bc0c0', '#ff9f40', '#9966ff', '#c9cbcf', '#8a5fff'];
-  const barColors = ['#3f51b5', '#f44336', '#4caf50', '#ff9800'];
 
   return (
     <div className="space-y-6">
